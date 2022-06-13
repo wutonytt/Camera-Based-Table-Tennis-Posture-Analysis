@@ -5,7 +5,7 @@
 Table tennis players need analyses of their opponents’ postures to optimize their game strategies, but it is too laborious and time-consuming to calculate a player’s postures by hands. Besides, most existing models are sensor-based.
 ## Our Solution
 We built a system to classify players’ postures (forehand and backhand) automatically based on their past game and practice videos, and we calculate ratios of players’ postures automatically based on the prediction from those classifiers.
-## Methodologies
+## Methods
 * Postures Analysis using Machine Learning algorithms
 * Semantic Segmentation for Ball Tracking and Table Detection
 ### Postures Analysis using Machine Learning algorithms
